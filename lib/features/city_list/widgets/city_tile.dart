@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:weather_app/repositories/weather/weather_repository.dart';
 
 class CityTile extends StatelessWidget {
   const CityTile({
